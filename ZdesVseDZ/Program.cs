@@ -132,7 +132,8 @@ else
 { 
     Console.WriteLine("No roots!"); 
 } */
-#endregion/*  1.Пользователь вводит 2 числа (A и B). Выведите в консоль результат деления A 
+#endregion
+/*  1.Пользователь вводит 2 числа (A и B). Выведите в консоль результат деления A 
 на B и остаток от деления. 
  
 int a = Convert.ToInt32(Console.ReadLine());
@@ -267,3 +268,4 @@ else
     Console.WriteLine("No roots!"); 
 } */
 #endregion
+Console.WriteLine(Peremenniye.DivisionOfTwoNumbers(77,11));
